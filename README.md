@@ -31,3 +31,7 @@ No diretório do projeto, você precisará executar:
 Em seguida
 
 - `npm start` ou `yarn start` para rodar o projeto em seu ambiente local;
+
+### Back End
+
+- O Backend da aplicação está disponível no seguinte repositório: [https://github.com/susimararoberti/desafio-sharenergy-2023-01-back](https://github.com/susimararoberti/desafio-sharenergy-2023-01-back)

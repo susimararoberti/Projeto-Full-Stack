@@ -54,7 +54,7 @@ const CustomerCard = ({ client, setReload, reload }) => {
         isOpen={isDeleteOpen}
         onClose={onDeleteClose}
         id={client._id}
-        route="customers"
+        route="customer"
       />
       <Flex
         p={2}

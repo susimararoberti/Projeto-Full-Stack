@@ -23,11 +23,7 @@ const CustomerModal = ({ isOpen, onClose, data, type }) => {
     setLoading(true);
     type === "edit"
       ? await API.patch(`/customer/${data._id}`, form)
-      : await API.post(
-          `/customer
-      /`,
-          form
-        );
+      : await API.post(`/customer/`, form);
     reset();
     setLoading(false);
     onClose();
