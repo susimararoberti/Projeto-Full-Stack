@@ -35,3 +35,7 @@ Em seguida
 ### Back End
 
 - O Backend da aplicação está disponível no seguinte repositório: [https://github.com/susimararoberti/desafio-sharenergy-2023-01-back](https://github.com/susimararoberti/desafio-sharenergy-2023-01-back)
+
+### Apresentação
+
+- O vídeo de apresentação da aplicação pode ser acessado neste endereço: [https://www.youtube.com/watch?v=ADxW0NHQwhY](https://www.youtube.com/watch?v=ADxW0NHQwhY)
