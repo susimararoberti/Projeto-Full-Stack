@@ -34,7 +34,7 @@ Em seguida
 
 ### Back End
 
-- O Backend da aplicação está disponível no seguinte repositório: [https://github.com/susimararoberti/desafio-sharenergy-2023-01-back](https://github.com/susimararoberti/desafio-sharenergy-2023-01-back)
+- O Backend da aplicação está disponível no seguinte repositório: [https://github.com/susimararoberti/Projeto-Full-Stack-backend](https://github.com/susimararoberti/Projeto-Full-Stack-backend)
 
 ### Apresentação
 
