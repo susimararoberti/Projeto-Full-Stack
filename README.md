@@ -1,4 +1,4 @@
-<h1 align="center">Desafio Sharenergy / 2023-01 / Frontend</h1>
+<h1 align="center"> Projeto Full Stack / Frontend</h1>
 
 ## 💻 Projeto
 
